@@ -1,0 +1,19 @@
+{
+  "cryptocurrencies": [
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "exchange": "Binance"
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "exchange": "Binance"
+    },
+    {
+      "symbol": "XRP",
+      "name": "Ripple",
+      "exchange": "Coinbase"
+    }
+  ]
+}
